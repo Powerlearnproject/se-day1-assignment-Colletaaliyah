@@ -12,7 +12,7 @@ Software engineering is important in the technology industry by enabling the cre
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-Development of programming languages (e.g., Fortran, C)
+Development of programming languages (e.g. Fortran, C)
 The establishment of software engineering as a discipline in the 1960s
 The advent of structured programming in the 1970s
 and the rise of agile methodologies in the 2000s.
@@ -71,3 +71,6 @@ Prompt engineering helps avoid vagueness,i.e. by making questions clear and spec
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+"Translate this"
+"Translate this English sentence to German"
+The improved prompt is more effective because it is concise and will give a relevant response and not a generalised one.
